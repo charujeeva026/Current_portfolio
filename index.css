@@ -10,7 +10,7 @@ HTML {
 }
 body {
   height: 190vh;
-  background: url("../profile\ photo.jpeg")no-repeat;
+  background: url("./profile\ photo.jpeg")no-repeat;
   color: #2b2b2b;
   background-size: cover;
   background-position: 95% center;
